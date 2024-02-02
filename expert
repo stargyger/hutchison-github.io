@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p3" style="overflow: hidden; position: relative; background-color: white; width: 1375px; height: 772px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_3{left:198px;bottom:571px;letter-spacing:-0.02px;word-spacing:0.42px;}
+#t2_3{left:198px;bottom:501px;letter-spacing:0.15px;word-spacing:-0.55px;}
+#t3_3{left:198px;bottom:465px;letter-spacing:0.17px;word-spacing:-0.57px;}
+#t4_3{left:198px;bottom:431px;letter-spacing:0.21px;}
+#t5_3{left:198px;bottom:337px;letter-spacing:0.13px;word-spacing:-0.11px;}
+#t6_3{left:198px;bottom:285px;letter-spacing:0.08px;word-spacing:-0.48px;}
+#t7_3{left:198px;bottom:251px;letter-spacing:0.19px;word-spacing:-0.58px;}
+#t8_3{left:198px;bottom:216px;letter-spacing:0.08px;word-spacing:-0.47px;}
+#t9_3{left:543px;bottom:337px;letter-spacing:-0.24px;word-spacing:-0.9px;}
+#ta_3{left:543px;bottom:285px;letter-spacing:0.19px;word-spacing:-0.59px;}
+#tb_3{left:543px;bottom:251px;letter-spacing:0.18px;word-spacing:-0.58px;}
+#tc_3{left:543px;bottom:216px;letter-spacing:0.21px;word-spacing:-0.61px;}
+#td_3{left:543px;bottom:181px;letter-spacing:0.13px;word-spacing:-0.52px;}
+#te_3{left:543px;bottom:146px;letter-spacing:0.12px;word-spacing:-0.52px;}
+#tf_3{left:889px;bottom:337px;letter-spacing:0.01px;}
+#tg_3{left:889px;bottom:285px;letter-spacing:0.18px;word-spacing:-0.58px;}
+#th_3{left:889px;bottom:251px;letter-spacing:0.27px;word-spacing:-0.68px;}
+#ti_3{left:889px;bottom:216px;letter-spacing:0.09px;}
+
+.s0_3{font-size:55px;font-family:Syne-Bold_1d;color:#F9D933;}
+.s1_3{font-size:22px;font-family:Arimo-Regular_1i;color:#D9E1FF;}
+.s2_3{font-size:33px;font-family:Syne-Bold_1d;color:#F9D933;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts3" type="text/css" >
+
+@font-face {
+	font-family: Arimo-Regular_1i;
+	src: url("fonts/Arimo-Regular_1i.woff") format("woff");
+}
+
+@font-face {
+	font-family: Syne-Bold_1d;
+	src: url("fonts/Syne-Bold_1d.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg3Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg3" style="-webkit-user-select: none;"><object width="1375" height="772" data="3/3.svg" type="image/svg+xml" id="pdf3" style="width:1375px; height:772px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_3" class="t s0_3">About Our Company </span>
+<span id="t2_3" class="t s1_3">We're a family-owned business dedicated to providing high-quality home repair and land </span>
+<span id="t3_3" class="t s1_3">maintenance services. We take pride in our work and are committed to exceeding our customers' </span>
+<span id="t4_3" class="t s1_3">expectations. </span>
+<span id="t5_3" class="t s2_3">Our Mission </span>
+<span id="t6_3" class="t s1_3">We're committed to providing </span>
+<span id="t7_3" class="t s1_3">exceptional service at an </span>
+<span id="t8_3" class="t s1_3">affordable price. </span>
+<span id="t9_3" class="t s2_3">Our Team </span>
+<span id="ta_3" class="t s1_3">Our experienced </span>
+<span id="tb_3" class="t s1_3">professionals are passionate </span>
+<span id="tc_3" class="t s1_3">about what they do and are </span>
+<span id="td_3" class="t s1_3">dedicated to delivering the </span>
+<span id="te_3" class="t s1_3">best results. </span>
+<span id="tf_3" class="t s2_3">Our Promise </span>
+<span id="tg_3" class="t s1_3">We stand behind our work </span>
+<span id="th_3" class="t s1_3">and guarantee your </span>
+<span id="ti_3" class="t s1_3">satisfaction. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p2" style="overflow: hidden; position: relative; background-color: white; width: 1375px; height: 1546px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_2{left:198px;bottom:1409px;letter-spacing:-0.5px;word-spacing:0.16px;}
+#t2_2{left:198px;bottom:1341px;letter-spacing:-0.16px;}
+#t3_2{left:198px;bottom:1271px;letter-spacing:0.19px;word-spacing:-0.59px;}
+#t4_2{left:198px;bottom:1236px;letter-spacing:0.16px;word-spacing:-0.55px;}
+#t5_2{left:198px;bottom:853px;letter-spacing:0.34px;}
+#t6_2{left:198px;bottom:809px;letter-spacing:0.2px;word-spacing:-0.6px;}
+#t7_2{left:198px;bottom:774px;letter-spacing:0.32px;word-spacing:-0.72px;}
+#t8_2{left:704px;bottom:853px;letter-spacing:0.13px;word-spacing:0.37px;}
+#t9_2{left:704px;bottom:809px;letter-spacing:0.1px;word-spacing:-0.5px;}
+#ta_2{left:704px;bottom:774px;letter-spacing:0.14px;word-spacing:-0.54px;}
+#tb_2{left:704px;bottom:739px;letter-spacing:0.11px;word-spacing:-0.51px;}
+
+.s0_2{font-size:55px;font-family:Syne-Bold_z;color:#F9D933;}
+.s1_2{font-size:22px;font-family:Arimo-Regular_13;color:#D9E1FF;}
+.s2_2{font-size:27px;font-family:Syne-Bold_z;color:#F9D933;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts2" type="text/css" >
+
+@font-face {
+	font-family: Arimo-Regular_13;
+	src: url("fonts/Arimo-Regular_13.woff") format("woff");
+}
+
+@font-face {
+	font-family: Syne-Bold_z;
+	src: url("fonts/Syne-Bold_z.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg2Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg2" style="-webkit-user-select: none;"><object width="1375" height="1546" data="2/2.svg" type="image/svg+xml" id="pdf2" style="width:1375px; height:1546px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_2" class="t s0_2">Your Trusted Home Repair </span>
+<span id="t2_2" class="t s0_2">Experts </span>
+<span id="t3_2" class="t s1_2">When things go wrong in your home, you need a team of professionals you can trust. Our </span>
+<span id="t4_2" class="t s1_2">experienced technicians have the skills and expertise to complete any repair quickly and efficiently. </span>
+<span id="t5_2" class="t s2_2">Plumbing </span>
+<span id="t6_2" class="t s1_2">From leaky faucets to clogged drains, we've got </span>
+<span id="t7_2" class="t s1_2">you covered. </span>
+<span id="t8_2" class="t s2_2">Heating &amp; Cooling </span>
+<span id="t9_2" class="t s1_2">Stay comfortable all year round with our heating </span>
+<span id="ta_2" class="t s1_2">and cooling services. We do full installs, duct </span>
+<span id="tb_2" class="t s1_2">work, troubleshooting, and filter changes. </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p4" style="overflow: hidden; position: relative; background-color: white; width: 1375px; height: 869px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_4{left:198px;bottom:732px;letter-spacing:-0.21px;word-spacing:0.63px;}
+#t2_4{left:198px;bottom:664px;letter-spacing:-0.01px;}
+#t3_4{left:198px;bottom:594px;letter-spacing:0.18px;word-spacing:-0.58px;}
+#t4_4{left:198px;bottom:559px;letter-spacing:0.2px;word-spacing:-0.6px;}
+#t5_4{left:198px;bottom:176px;letter-spacing:0.16px;}
+#t6_4{left:198px;bottom:132px;letter-spacing:0.01px;word-spacing:-0.4px;}
+#t7_4{left:198px;bottom:97px;letter-spacing:0.17px;word-spacing:-0.57px;}
+#t8_4{left:198px;bottom:62px;letter-spacing:0.38px;}
+#t9_4{left:704px;bottom:176px;letter-spacing:0.23px;word-spacing:0.27px;}
+#ta_4{left:704px;bottom:132px;letter-spacing:0.11px;word-spacing:-0.5px;}
+#tb_4{left:704px;bottom:97px;letter-spacing:0.13px;word-spacing:-0.53px;}
+
+.s0_4{font-size:55px;font-family:Syne-Bold_1x;color:#F9D933;}
+.s1_4{font-size:22px;font-family:Arimo-Regular_21;color:#D9E1FF;}
+.s2_4{font-size:27px;font-family:Syne-Bold_1x;color:#F9D933;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts4" type="text/css" >
+
+@font-face {
+	font-family: Arimo-Regular_21;
+	src: url("fonts/Arimo-Regular_21.woff") format("woff");
+}
+
+@font-face {
+	font-family: Syne-Bold_1x;
+	src: url("fonts/Syne-Bold_1x.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg4Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg4" style="-webkit-user-select: none;"><object width="1375" height="869" data="4/4.svg" type="image/svg+xml" id="pdf4" style="width:1375px; height:869px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_4" class="t s0_4">The Importance of Regular </span>
+<span id="t2_4" class="t s0_4">Maintenance </span>
+<span id="t3_4" class="t s1_4">Regular home maintenance is crucial for keeping your home in good condition and preventing </span>
+<span id="t4_4" class="t s1_4">costly repairs down the line. Let us help you keep your home in top shape. </span>
+<span id="t5_4" class="t s2_4">Painting </span>
+<span id="t6_4" class="t s1_4">Residential exterior\interior painting from rooftop </span>
+<span id="t7_4" class="t s1_4">coatings, bathrooms, kitchens to backyard </span>
+<span id="t8_4" class="t s1_4">gazebos </span>
+<span id="t9_4" class="t s2_4">Roof Repair </span>
+<span id="ta_4" class="t s1_4">We repair leaking skylights, broken tiles, peeling </span>
+<span id="tb_4" class="t s1_4">roof coatings, and gutter replacement </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+<div id="p5" style="overflow: hidden; position: relative; background-color: white; width: 1375px; height: 893px;">
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_5{left:198px;bottom:756px;letter-spacing:-0.26px;word-spacing:-0.47px;}
+#t2_5{left:198px;bottom:686px;letter-spacing:0.18px;word-spacing:-0.58px;}
+#t3_5{left:198px;bottom:652px;letter-spacing:0.06px;}
+#t4_5{left:355px;bottom:557px;}
+#t5_5{left:220px;bottom:467px;letter-spacing:-0.17px;word-spacing:0.64px;}
+#t6_5{left:220px;bottom:424px;letter-spacing:0.19px;word-spacing:-0.59px;}
+#t7_5{left:220px;bottom:388px;letter-spacing:0.14px;word-spacing:-0.55px;}
+#t8_5{left:220px;bottom:340px;letter-spacing:0.26px;}
+#t9_5{left:677px;bottom:557px;}
+#ta_5{left:546px;bottom:467px;letter-spacing:-0.12px;word-spacing:0.6px;}
+#tb_5{left:546px;bottom:433px;letter-spacing:0.21px;word-spacing:0.31px;}
+#tc_5{left:546px;bottom:389px;letter-spacing:0.18px;word-spacing:-0.58px;}
+#td_5{left:1004px;bottom:557px;}
+#te_5{left:873px;bottom:467px;letter-spacing:-0.11px;word-spacing:0.6px;}
+#tf_5{left:873px;bottom:424px;letter-spacing:0.08px;}
+#tg_5{left:873px;bottom:388px;letter-spacing:0.36px;}
+#th_5{left:349px;bottom:216px;}
+#ti_5{left:220px;bottom:127px;letter-spacing:0.12px;word-spacing:0.38px;}
+#tj_5{left:220px;bottom:82px;letter-spacing:0.09px;}
+
+.s0_5{font-size:55px;font-family:Syne-Bold_2b;color:#F9D933;}
+.s1_5{font-size:22px;font-family:Arimo-Regular_2g;color:#D9E1FF;}
+.s2_5{font-size:33px;font-family:Syne-Bold_2b;color:#FFF;}
+.s3_5{font-size:27px;font-family:Syne-Bold_2b;color:#F9D933;}
+.s4_5{font-size:22px;font-family:Arimo-Regular_2g;color:#F9D933;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin embedded font definitions -->
+<style id="fonts5" type="text/css" >
+
+@font-face {
+	font-family: Arimo-Regular_2g;
+	src: url("fonts/Arimo-Regular_2g.woff") format("woff");
+}
+
+@font-face {
+	font-family: Syne-Bold_2b;
+	src: url("fonts/Syne-Bold_2b.woff") format("woff");
+}
+
+</style>
+<!-- End embedded font definitions -->
+
+<!-- Begin page background -->
+<div id="pg5Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg5" style="-webkit-user-select: none;"><object width="1375" height="893" data="5/5.svg" type="image/svg+xml" id="pdf5" style="width:1375px; height:893px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_5" class="t s0_5">Contact Us Today </span>
+<span id="t2_5" class="t s1_5">Ready to get started? Contact us today to schedule your free consultation and get a quote for your </span>
+<span id="t3_5" class="t s1_5">project. </span>
+<span id="t4_5" class="t s2_5">1 </span>
+<span id="t5_5" class="t s3_5">Call Us: </span>
+<span id="t6_5" class="t s4_5">Douglas Hutchison/Hutch </span>
+<span id="t7_5" class="t s4_5">Home Repairs </span>
+<span id="t8_5" class="t s1_5">520=373=2661 </span>
+<span id="t9_5" class="t s2_5">2 </span>
+<span id="ta_5" class="t s3_5">We Service all of </span>
+<span id="tb_5" class="t s3_5">Tucson, USA </span>
+<span id="tc_5" class="t s1_5">(and surrounding areas) </span>
+<span id="td_5" class="t s2_5">3 </span>
+<span id="te_5" class="t s3_5">Email Us: </span>
+<span id="tf_5" class="t s1_5">hutchhomerepairs@gmail.c </span>
+<span id="tg_5" class="t s1_5">om </span>
+<span id="th_5" class="t s2_5">4 </span>
+<span id="ti_5" class="t s3_5">Google Us: </span>
+<span id="tj_5" class="t s1_5">www.hutchhomerepairs.com </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+
